@@ -43,7 +43,7 @@ Streamlit-приложение предоставляет:
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/AvgiD/project_1.git
+git clone https://github.com/pechenka2710/project.git
 
 # Перейти в директорию проекта
 cd project_1
