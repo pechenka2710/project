@@ -46,7 +46,7 @@ Streamlit-приложение предоставляет:
 git clone https://github.com/pechenka2710/project.git
 
 # Перейти в директорию проекта
-cd project_1
+cd project
 
 # Установить зависимости
 pip install -r requirements.txt
